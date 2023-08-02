@@ -23,12 +23,13 @@
     "typescript": "5.1.6"
   },
   "devDependencies": {
+    "@tanstack/react-query-devtools": "^4.32.1",
     "@typescript-eslint/eslint-plugin": "^5.61.0",
     "@typescript-eslint/parser": "^5.61.0",
-    "prettier": "^3.0.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-config-airbnb-typescript": "^17.0.0",
     "eslint-config-next": "13.4.12",
-    "eslint-plugin-react-hooks": "^4.6.0"
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "prettier": "^3.0.0"
   }
 }
